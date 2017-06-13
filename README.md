@@ -1,4 +1,4 @@
-# Integrtive analysis of pathway deregulation in obesity
+# Integrative analysis of pathway deregulation in obesity
 This repository contains data and code used in
 
 F. Font-Clos, S. Zapperi, C.A.M. La Porta  
@@ -14,6 +14,7 @@ The main findings of the paper can be reproduced executing the following noteboo
 
 1. [SVDmerge to remove batch effects and merge gene-expression data](https://github.com/ComplexityBiosystems/obesity-score/blob/master/notebooks/1.SVDmerge_to_remove_batch_effects.ipynb)
 2. [Extracting the obesity signature](https://github.com/ComplexityBiosystems/obesity-score/blob/master/notebooks/2.Extracting_the_obesity_signature.ipynb)
+3. [The obesity score correlates with BMI](https://github.com/ComplexityBiosystems/obesity-score/blob/master/notebooks/3.The_obesity_score_correlates_with_BMI.ipynb)
 
 ### Output files
 When executing the notebooks in order, several output files are generated. These include merged gene-expression data, the obesity signature and some figures. All output files are stored in the [output folder](https://github.com/ComplexityBiosystems/obesity-score/tree/master/output)
