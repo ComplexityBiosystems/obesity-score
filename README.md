@@ -4,7 +4,7 @@ This repository contains data and code used in
 F. Font-Clos, S. Zapperi, C.A.M. La Porta  
 Integrative analysis of pathway deregulation in obesity  
 *npj Systems Biology and Applications (accepted)*  
-[insert link](https://github.com/ComplexityBiosystems/obesity-score)
+[link to journal](https://www.nature.com/articles/s41540-017-0018-z)
 
 ### Input files
 All the necessary datasets, including gene-expression data, pathway gene sets, and gene names dictionaries are stored in the [data folder](https://github.com/ComplexityBiosystems/obesity-score/tree/master/data).
